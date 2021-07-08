@@ -31,7 +31,7 @@ In the future, this project may be refactored for improved efficiency and readab
 # Usage
 Clone the repository, navigate to the project folder in your CLI and use the ```npm run seed``` to seed data to the database and test CRUD routes.
 
-Video Demonstration: 
+Video Demonstration: https://youtu.be/YqHXCVwpIE8
 
 <img width="953" alt="Screen Shot 2021-07-07 at 8 14 31 PM" src="https://user-images.githubusercontent.com/77700824/124856750-f2017100-df5f-11eb-813b-8dc7bcd7ac40.png">
 <img width="1131" alt="Screen Shot 2021-07-07 at 8 15 04 PM" src="https://user-images.githubusercontent.com/77700824/124856796-05acd780-df60-11eb-88b4-fea157e1bc70.png">
